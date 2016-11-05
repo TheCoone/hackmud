@@ -1,3 +1,4 @@
 # hackmud
-Personal hackmud scripts \n
+Personal hackmud scripts
+
 These might not work properly.
