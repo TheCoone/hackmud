@@ -1,4 +1,4 @@
-function(context, args) //target:0
+function(context, args) //t:0
 {
 	//Made by: ast
 	//Usage: ast.crack {t:#s.account.loc}; remember to be in hardline
