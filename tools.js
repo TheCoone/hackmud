@@ -14,8 +14,9 @@ function (c,a) { // {p:""}
     case xfer:
       return "This will Transfer an item to them alt acccount."
     case clean:
-      return "This will cleanup all Upgrades."
-    case
+      return "This will cleanup (destroy) all Upgrades."
+    case panic:
+      return "This will be the panic button to burn the user"
 
   }
 
